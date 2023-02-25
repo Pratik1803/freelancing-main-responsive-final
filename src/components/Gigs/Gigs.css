@@ -82,8 +82,8 @@ option,
     justify-content: flex-start;
     padding: 10px;
     gap: 0.5rem;
-    flex-direction: column;
-    width: 95%;
+    /* flex-direction: column; */
+    /* width: fit-content; */
   }
   .gigs_category input{
     padding-left: 0;
@@ -91,7 +91,7 @@ option,
   }
   .category{
     display: flex;
-    width: 100%;
+    /* width: 100%; */
     justify-content: flex-start;
     align-items: center;
     gap: 2rem;

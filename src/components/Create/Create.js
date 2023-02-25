@@ -22,15 +22,15 @@ const Create = () => {
             <Link to="/account">
               {" "}
               <button className="mt-3 login-btn justify-content-center">
-                Login
+                Login with Alacrity
               </button>
             </Link>
             <div className="or">
               <div className="line1"></div>
-              <p className="text-center mt-3 mx-2">or</p>
+              <br />
               <div className="line1"></div>
             </div>
-            <button>Sign Up with Alacrity</button>
+            <button>Create Wallet with Alacrity</button>
           </div>
         </div>
       </div>

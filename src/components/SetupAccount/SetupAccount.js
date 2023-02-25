@@ -34,10 +34,10 @@ const SetupAccount = () => {
                   Select Role
                 </label>
                 <select name="cars" id="cars" className="form-control w-100">
-                  <option value="volvo">Freelancer</option>
-                  <option value="saab">Usa</option>
-                  <option value="mercedes">Brazil</option>
-                  <option value="audi">Japan</option>
+                  <option value="freelancer">Freelancer</option>
+                  <option value="employer">Employer</option>
+                  {/* <option value="mercedes">Brazil</option>
+                  <option value="audi">Japan</option> */}
                 </select>
               </div>
             </div>

@@ -23,22 +23,22 @@ const Gigs = () => {
                 <option value="mercedes">Mercedes</option>
                 <option value="audi">Audi</option>
               </select>
-              <div className="category_right_mob">
+              {/* <div className="category_right_mob">
                 <h4>Filter</h4>
 
                 <h4>Budget</h4>
-              </div>
+              </div> */}
             </div>
 
             <div className="category_search">
               <input type="search" placeholder="Marketing" />
             </div>
-            <div className="category_right">
+            {/* <div className="category_right">
               <p>|</p>
               <h4>Filter</h4>
               <p>|</p>
               <h4>Budget</h4>
-            </div>
+            </div> */}
           </div>
           <h1 className="text-left">Posted Gigs</h1>
         </div>
